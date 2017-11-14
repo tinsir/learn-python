@@ -7,3 +7,5 @@ print (d)
 
 e = a + c
 print (e)
+
+print("===%s==="%(d))
